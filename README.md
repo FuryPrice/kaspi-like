@@ -19,10 +19,4 @@
 1. Склонируй репозиторий:
    ```bash
    git clone https://github.com/FuryPrice/Kaspi-Like-Demo.git
-##Структура прокта
-Kaspi-Like-Demo/
- ├── index.html     # Главная страница
- ├── kaspi_like.css # Стили
- ├── script.js      # Логика корзины и кнопок
- └── README.md      # Описание проекта
 
